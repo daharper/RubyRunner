@@ -9,3 +9,5 @@ Example:
 ```
 RubyRunnner "C:\MyRuby.rb"
 ```
+
+If no argument is supplied, it will execute a default "Hello.rb"
